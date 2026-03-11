@@ -18,7 +18,7 @@ My purpose for creating this software is to:
 - **GitHub** - For repository hosting and version control
 - **Python 3** - The programming language used for this project
 - **VS Code** - Code editor (optional, can also use any text editor)
-- **YouTube** - For hosting the video demonstration
+- **Loom** - For hosting the video demonstration
 
 **Programming Language:**
 - **Python** - I chose Python because it is beginner-friendly, widely used in industry, and has clean syntax that makes the code easy to read and understand. Python is excellent for quick prototyping and is used in web development, data science, and automation.
