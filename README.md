@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, I am building a strong foundation by mastering the fundamentals of programming and version control. This simple "Hello World" project represents the beginning of my journey to create more complex and useful applications. By starting with the basics, I ensure that I have a solid understanding of how to set up a development environment, write clean code, and share my work professionally on GitHub.
+As a software development student, I am building a strong foundation by mastering the fundamentals of programming and version control. This simple "Hello World" project represents the beginning of my journey to create more complex and useful applications. By starting with the basics, I ensure that I have a solid understanding of how to set up a development environment, write clean code, and share my work professionally on GitHub.
 
 This software prints the classic "Hello World" message to the screen. While simple, it demonstrates the complete workflow of creating, documenting, and publishing a software project that I will use for all future assignments in this course and beyond.
 
